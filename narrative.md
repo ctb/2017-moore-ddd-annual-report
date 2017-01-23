@@ -70,7 +70,7 @@ issues of open science, computational infrastructure, scientific
 software engineering, and repeatability/reproducibility.  The primary
 broadcast medium for these opinions is social media, with my blog and
 Twitter accounts.  As evidence of engagement, my blog sees about
-90,000 page views a year, and gathers about 200 comments per year; but
+90,000 page views a year, and gathers about 200 comments per year;
 I don't know how to summarize my Twitter traffic.  It seems likely
 that many of my invitations and advisory board memberships come from
 my social media presence, as I have mostly avoided publishing opinion
