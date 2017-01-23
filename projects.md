@@ -145,8 +145,8 @@ Major highlights:
       * http://ivory.idyll.org/blog/2016-sourmash-sbt-more.html
       * http://ivory.idyll.org/blog/2017-sourmash-sra-microbial-wgs.html
 
-* We initiated a collaboration with Blair Sullivan's group and Jeff
-  Heer's lab at the DDD Barnraising at MDIBL to build tools combining
-  contracted De Bruijn graphs, dominating sets, and MinHash-based
-  search.  We hope this will lead to some major advances in metagenome
-  and RNAseq analysis in the coming year.
+* We initiated a collaboration with Blair Sullivan's group and Dominik
+  Moritz Jeff Heer's lab at the DDD Barnraising at MDIBL to build
+  tools combining contracted De Bruijn graphs, dominating sets, and
+  MinHash-based search.  We hope this will lead to some major advances
+  in metagenome and RNAseq analysis in the coming year.
