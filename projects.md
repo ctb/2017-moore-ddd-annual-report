@@ -28,7 +28,7 @@ Major highlights:
   as evil by most people) I gather that people are cautiously optimistic
   about the effort.
   
-Blog post: https://monsterbashseq.wordpress.com/2016/09/13/mmetsp-re-assemblies/
+Blog post: [MMETSP re-assemblies](https://monsterbashseq.wordpress.com/2016/09/13/mmetsp-re-assemblies/)
     
 ### Metagenome assembly analysis
 
@@ -64,11 +64,11 @@ dammit for annotating transcripts.
 Our "flagship" software package, khmer, and its companion project,
 screed, suffered from neglect for about a year after our 2.0 release
 and the publication of our F1000 Research paper
-(https://f1000research.com/articles/4-900/v1).  This was due in some
-part to the departure of Michael Crusoe, who was our lead software
-engineer, and also in significant part to my inability to lead the
-project scientifically at the same time as I was trying to spin up the
-new lab at UC Davis.
+([The khmer software package](https://f1000research.com/articles/4-900/v1)).
+This was due in some part to the departure of Michael Crusoe, who was
+our lead software engineer, and also in significant part to my
+inability to lead the project scientifically at the same time as I was
+trying to spin up the new lab at UC Davis.
 
 In this past year, these issues were resolved by the arrival of Daniel
 Standage (postdoc, funded entirely on an NIH R01), and the hiring of
@@ -101,16 +101,15 @@ Major highlights:
   find minor and not-so-minor bugs in khmer.  This suggests to me that
   plain ol' software bugs are likely to have a significant
   contribution to the repeatability/replication/reproducibility
-  crisis.  (See Dave Soergel's paper, "Rampant software errors may
-  undermine scientific results",
-  https://f1000research.com/articles/3-303/v2.)
+  crisis.  (See Dave Soergel's paper, ["Rampant software errors may
+  undermine scientific results"](https://f1000research.com/articles/3-303/v2.))
   
 * Camille Scott (grad student) has made significant progress on streaming
   RNAseq assembly, which is laying the foundation for streaming analysis
   of very large continually arriving sequencing data sets.
   
 * Our authorship policy for F1000 Research broke some people:
-  http://ivory.idyll.org/blog/2015-authorship-on-software-papers.html
+  [Pubwication of software papers, and authorship on them](http://ivory.idyll.org/blog/2015-authorship-on-software-papers.html)
 
 ### Development of MinHash-based technologies
 
@@ -127,7 +126,7 @@ Major highlights:
 * we developed our own toolkit, `sourmash`, for exploring MinHash
   sketches, and published v1.0 in the Journal of Open Source Software:
   
-      https://github.com/openjournals/joss-reviews/issues/27
+      [Sourmash in JOSS](https://github.com/openjournals/joss-reviews/issues/27)
       
 * Luiz Irber (grad) implemented fast searches of very large databases
   of MinHash sketches using Sequence Bloom Trees (a technique first
@@ -142,8 +141,8 @@ Major highlights:
   to index and classify 400k public records from the NCBI Sequence Read
   Archive:
   
-      * http://ivory.idyll.org/blog/2016-sourmash-sbt-more.html
-      * http://ivory.idyll.org/blog/2017-sourmash-sra-microbial-wgs.html
+      * [Quickly searching all the microbial genomes](http://ivory.idyll.org/blog/2016-sourmash-sbt-more.html)
+      * [Categorizing 400,000 microbial WGS samples](http://ivory.idyll.org/blog/2017-sourmash-sra-microbial-wgs.html)
 
 * We initiated a collaboration with Blair Sullivan's group and Dominik
   Moritz Jeff Heer's lab at the DDD Barnraising at MDIBL to build

@@ -14,12 +14,12 @@ technology for large-scale data analysis.
 """
 
 The second year of this award saw substantial progress towards
-outlining a strategy and developing specific foundational technologies
-and software.  (The first year of this award was dominated by the
-process of moving to UC Davis and recruiting postdocs to my new lab!)
-Since last report, three new postdocs (Daniel Standage, Harriet
-Alexander, and Phillip Brooks) have joined, and all are working on
-DDD-related projects.
+outlining a strategy towards these ends, and developing specific
+foundational technologies and software.  (The first year of this award
+was dominated by the process of moving to UC Davis and recruiting
+postdocs to my new lab!)  Since last report, three new postdocs
+(Daniel Standage, Harriet Alexander, and Phillip Brooks) have joined,
+and all are working on DDD-related projects.
 
 We are now moving forward on several fronts:
 
