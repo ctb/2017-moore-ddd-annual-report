@@ -11,7 +11,13 @@ Award purpose:
 >through the development of new workflows and better data sharing
 >technology for large-scale data analysis.
 
-The second year of this award saw substantial progress towards
+Essentially, our project is to explore discovery and semi-automated
+analyses of sequencing data, with the goal of eventually supporting
+large scale mining of correlations across All the Data. The challenge
+is that these are all underdeveloped technologies in non-model
+organism genomics.
+
+The second year of my award saw substantial progress towards
 outlining a strategy towards these ends, and developing specific
 foundational technologies and software.  (The first year of this award
 was dominated by the process of moving to UC Davis and recruiting
