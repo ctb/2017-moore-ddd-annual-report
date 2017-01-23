@@ -142,8 +142,8 @@ Major highlights:
   to index and classify 400k public records from the NCBI Sequence Read
   Archive:
   
-      * ivory.idyll.org/blog/2016-sourmash-sbt-more.html
-      * ivory.idyll.org/blog/2017-sourmash-sra-microbial-wgs.html
+      * http://ivory.idyll.org/blog/2016-sourmash-sbt-more.html
+      * http://ivory.idyll.org/blog/2017-sourmash-sra-microbial-wgs.html
 
 * We initiated a collaboration with Blair Sullivan's group and Jeff
   Heer's lab at the DDD Barnraising at MDIBL to build tools combining
