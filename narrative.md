@@ -4,14 +4,12 @@
 
 Award purpose:
 
-"""
-In support of demonstrating the high level of scientific impact
-that data scientists deliver through their focus on
-interdisciplinary data-driven research; funds from this award will
-be used to better understand gene function in non-model organisms
-through the development of new workflows and better data sharing
-technology for large-scale data analysis.
-"""
+>In support of demonstrating the high level of scientific impact
+>that data scientists deliver through their focus on
+>interdisciplinary data-driven research; funds from this award will
+>be used to better understand gene function in non-model organisms
+>through the development of new workflows and better data sharing
+>technology for large-scale data analysis.
 
 The second year of this award saw substantial progress towards
 outlining a strategy towards these ends, and developing specific
