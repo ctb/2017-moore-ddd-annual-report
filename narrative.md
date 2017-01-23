@@ -36,8 +36,9 @@ We are now moving forward on several fronts:
   
 * our distributed/scalability tiger team (Luiz Irber) is working to
   build distributed indices of MinHash sketches to make it possible to
-  find relevant data sets and analyses.  As part of this Luiz is building
-  a massively scalable indexing infrastructure that resembles a botnet.
+  find relevant data sets and analyses.  As part of this Luiz is
+  building a massively scalable indexing infrastructure that closely
+  resembles a botnet.
   
 * our core software development efforts are proceeding again, with
   Daniel Standage leading khmer development and a consultant (Tim Head)
