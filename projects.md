@@ -125,8 +125,7 @@ Major highlights:
 
 * we developed our own toolkit, `sourmash`, for exploring MinHash
   sketches, and published v1.0 in the Journal of Open Source Software:
-  
-      [Sourmash in JOSS](https://github.com/openjournals/joss-reviews/issues/27)
+  [Sourmash in JOSS](https://github.com/openjournals/joss-reviews/issues/27)
       
 * Luiz Irber (grad) implemented fast searches of very large databases
   of MinHash sketches using Sequence Bloom Trees (a technique first
@@ -141,8 +140,8 @@ Major highlights:
   to index and classify 400k public records from the NCBI Sequence Read
   Archive:
   
-      * [Quickly searching all the microbial genomes](http://ivory.idyll.org/blog/2016-sourmash-sbt-more.html)
-      * [Categorizing 400,000 microbial WGS samples](http://ivory.idyll.org/blog/2017-sourmash-sra-microbial-wgs.html)
+  * [Quickly searching all the microbial genomes](http://ivory.idyll.org/blog/2016-sourmash-sbt-more.html)
+  * [Categorizing 400,000 microbial WGS samples](http://ivory.idyll.org/blog/2017-sourmash-sra-microbial-wgs.html)
 
 * We initiated a collaboration with Blair Sullivan's group and Dominik
   Moritz Jeff Heer's lab at the DDD Barnraising at MDIBL to build
