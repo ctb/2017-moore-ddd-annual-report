@@ -68,14 +68,15 @@ doing interesting analyses.
 I continue to be recognized as a source of informed opinion about
 issues of open science, computational infrastructure, scientific
 software engineering, and repeatability/reproducibility.  The primary
-broadcast medium for this is social media, with my blog and Twitter
-accounts.  As evidence of engagement with these opinions, my blog sees
-about 90,000 page views a year, and gathers about 200 comments per
-year.  It seems likely that many of my invitations and advisory board
-memberships come from my social media presence, as I have mostly
-avoided publishing opinion pieces or review articles in traditional
-locations.  I also routinely provide background information and
-give interviews to science journalists.
+broadcast medium for these opinions is social media, with my blog and
+Twitter accounts.  As evidence of engagement, my blog sees about
+90,000 page views a year, and gathers about 200 comments per year; but
+I don't know how to summarize my Twitter traffic.  It seems likely
+that many of my invitations and advisory board memberships come from
+my social media presence, as I have mostly avoided publishing opinion
+pieces or review articles in traditional locations.  I also routinely
+provide background information and give interviews to science
+journalists.
 
 More than just me, the lab is increasingly being recognized as a
 source of expertise in software development, data-intensive research,
