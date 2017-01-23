@@ -51,9 +51,9 @@ We are now moving forward on several fronts:
 * while doing all of this, we continue to explore the landscape of
   tools and resources around notions of openness, repeatability,
   decentralization and distribution, and community engagement.  In
-  addition to my own robust social media presence, an analysis of
-  challenges in doing large scale data reanalysis on a small lab
-  budget will be submitted along with the primary MMETSP reanalysis
+  addition to my continuing social media postings, an analysis of
+  challenges in doing large scale data reanalysis in a small lab
+  will be submitted along with the primary MMETSP reanalysis
   paper.
 
 * an important component of all our work is our teaching and training
