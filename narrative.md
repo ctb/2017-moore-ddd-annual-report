@@ -36,9 +36,9 @@ We are now moving forward on several fronts:
   
 * our distributed/scalability tiger team (Luiz Irber) is working to
   build distributed indices of MinHash sketches to make it possible to
-  find relevant data sets and analyses.  As part of this Luiz is
-  building a massively scalable indexing infrastructure that closely
-  resembles a botnet.
+  find relevant data sets and analyses in public databases.  As part
+  of this Luiz is building a massively scalable indexing
+  infrastructure that closely resembles a botnet.
   
 * our core software development efforts are proceeding again, with
   Daniel Standage leading khmer development and a consultant (Tim Head)
@@ -52,20 +52,40 @@ We are now moving forward on several fronts:
   budget will be submitted along with the primary MMETSP reanalysis
   paper.
 
-* an important component of all our work is a teaching and training
-  effort that is aimed at building a local community of practice around
-  data-driven discovery while engaging with the global community
-  being nucleated by the Data Science Environments and Data Carpentry.
-  Towards this end we have run dozens of workshops in the past two years
-  and plan to considerably scale up in the summer of 2017.
+* an important component of all our work is our teaching and training
+  effort, aimed at building a local community of practice around
+  data-driven discovery while engaging with the global community being
+  nucleated by the Data Science Environments and Data Carpentry.
+  Towards this end we have run dozens of workshops in the past two
+  years and plan to considerably scale up in the summer of 2017.
   
-It's hard to predict where we will end up but I'm enjoying the ride.
+It's hard to predict where we will end up but I'm enjoying the ride,
+and in the meantime we are producing useful software products and
+doing interesting analyses.
 
 ## Awareness and recognition
 
 *Describe evidence of awareness/recognition of you, your projects, and/or your lab members.*
 
-More goes here.
+I continue to be recognized as a source of informed opinion about
+issues of open science, computational infrastructure, scientific
+software engineering, and repeatability/reproducibility.  The primary
+broadcast medium for this is social media, with my blog and Twitter
+accounts.  As evidence of engagement with these opinions, my blog sees
+about 90,000 page views a year, and gathers about 200 comments per
+year.  It seems likely that many of my invitations and advisory board
+memberships come from my social media presence, as I have mostly
+avoided publishing opinion pieces or review articles in traditional
+locations.  I also routinely provide background information and
+give interviews to science journalists.
+
+More than just me, the lab is increasingly being recognized as a
+source of expertise in software development, data-intensive research,
+and infrastructure.  For example, Luiz did a tutorial on Docker at
+Supercomputing 2016; Harriet and Daniel both participated in a
+national Plant Biology computing infrastructure visioning workshop;
+and Harriet has participated in several additional visioning workshops
+and grant review panels.
 
 ### Help requested
 
