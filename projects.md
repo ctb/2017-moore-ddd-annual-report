@@ -8,7 +8,9 @@ data sets generated about 5 years ago by the Moore Foundation.
 
 Major highlights:
 
-* this effort should dramatically improve usability of 
+* this effort should dramatically improve usability of these data sets
+  by the field, both now (updated annotations, expression) and in the
+  future (because we can update the annotations fairly easily).
 
 * we have a single script that will trim, assemble, annotate, and
   calculate expression levels for ~arbitrary numbers of RNAseq
