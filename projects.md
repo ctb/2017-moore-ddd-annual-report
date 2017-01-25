@@ -43,7 +43,8 @@ Major highlights:
   fewer resources.
 
 * contamination in the mock metagenome turns out to be the cause of a
-  mismatch between assembled content and expected content.
+  mismatch between assembled content and expected content; the assemblers
+  appear to be working just fine.
 
 ### Automated tools for transcriptomics
 
@@ -81,7 +82,7 @@ students and postdocs find secondary to their research (but are
 nonetheless important to software integrity, adaptibility, and forward
 development).
 
-khmer remains central to the lab and, a well as a suite of useful
+khmer remains central to the lab and, in addition to being a suite of useful
 exploratory tools, is now maturing into a robust platform that several
 projects in the lab are relying on.  Despite this I am still somewhat
 alarmed (at a strategic level) regarding the level of resources
@@ -144,7 +145,7 @@ Major highlights:
   * [Categorizing 400,000 microbial WGS samples](http://ivory.idyll.org/blog/2017-sourmash-sra-microbial-wgs.html)
 
 * We initiated a collaboration with Blair Sullivan's group and Dominik
-  Moritz Jeff Heer's lab at the DDD Barnraising at MDIBL to build
+  Moritz from Jeff Heer's lab at the DDD Barnraising at MDIBL, to build
   tools combining contracted De Bruijn graphs, dominating sets, and
   MinHash-based search.  We hope this will lead to some major advances
   in metagenome and RNAseq analysis in the coming year.
