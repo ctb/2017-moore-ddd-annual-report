@@ -76,7 +76,7 @@ Standage (postdoc, funded entirely on an NIH R01), and the hiring of
 Tim Head (software engineer/consultant).  Daniel is building a new
 large-genome variant calling system on top of khmer called Kevlar, and
 as a result is pushing khmer library development in new directions.
-Tim is supporting the projects as open source projects, fixing bugs,
+Tim is supporting the projects in the open source way: fixing bugs,
 helping with code review, and generally doing the things that grad
 students and postdocs find secondary to their research (but are
 nonetheless important to software integrity, adaptibility, and forward
