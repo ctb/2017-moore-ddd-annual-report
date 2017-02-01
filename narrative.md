@@ -94,9 +94,22 @@ national Plant Biology computing infrastructure visioning workshop;
 and Harriet has participated in several additional visioning workshops
 and grant review panels.
 
-### Help requested
+## Expenditures
 
-#### Compute infrastructure
+The large majority of my expenditures are on personnel - postdocs and
+grad students.  This past year saw the arrival of postdocs Harriet Alexander
+and Phil Brooks, as well as continuing support for Sherine Mahmoud,
+Camille Scott, and Luiz Irber.  Because Harriet and Phil took longer to
+arrive than planned, I underspent for the year by about 17% on personnel.
+
+The "supplies and expenses" line item was off by more than 20% - this
+was because I had two big expenses: I hired Tim Head as a software
+engineer contractor (approximatel $15k, and I put down 1/4 of an order
+for an Oxford Nanopore Promethion instrument that will arrive soon.
+
+## Help requested
+
+### Compute infrastructure
 
 There is a general confusion and lack of clarity around the
 computational infrastructure needs of Data Driven Discovery, and where
@@ -113,7 +126,7 @@ NSF's JetStream, as two possible solutions for our lab.
 But, more generally, I don't know what a sustainable option is here.
 It seems like a good opportunity for some brainstorming.
 
-#### Learning about deep learning
+### Learning about deep learning
 
 I need to know more about deep learning, and gain some hands on
 experience.  More, I would like to be able to engage closely with
